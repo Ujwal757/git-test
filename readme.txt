@@ -10,3 +10,6 @@ This project demonstrates Git branching, merging, rebasing
 
 Main branch update
 Course branch update
+
+
+Student Management System updated with new project information.
