@@ -5,3 +5,5 @@ Course Details
 3. Git and GitHub
 4. Shell Scripting
 5. DevOps FundamentalsCourse Details
+6. Docker Fundamentals
+7. Kubernetes Fundamentals
