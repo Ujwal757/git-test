@@ -4,4 +4,6 @@ description : git practice test for mnaging students and course details
 
 developer : Ujwal
 
-version 1.1
+version 1.2
+
+This project demonstrates Git branching, merging, rebasing
