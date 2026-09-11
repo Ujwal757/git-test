@@ -1,0 +1,7 @@
+Course Details
+
+1. AWS Fundamentals
+2. Linux Administration
+3. Git and GitHub
+4. Shell Scripting
+5. DevOps FundamentalsCourse Details
