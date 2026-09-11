@@ -1,0 +1,8 @@
+Student Details
+
+1. 101 - Rahul - Computer Science
+2. 102 - Anu - Computer Science
+3. 103 - Arun - Electronics
+4. 104 - Meera - Mechanical
+5. 105 - Vishnu - Civil
+6. 106 - Yadhu - Information Technology
