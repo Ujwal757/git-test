@@ -5,3 +5,4 @@ Student Details
 3. 103 - Arun - Electronics
 4. 104 - Meera - Mechanical
 5. 105 - Vishnu - Civil
+6. 106 - Yadhu - Information Technology
