@@ -9,3 +9,4 @@ version 1.2
 This project demonstrates Git branching, merging, rebasing
 
 Main branch update
+Course branch update
